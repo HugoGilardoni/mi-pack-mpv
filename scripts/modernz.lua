@@ -94,7 +94,7 @@ local user_opts = {
     jump_amount = 10,                      -- change the jump amount in seconds
     jump_more_amount = 60,                 -- change the jump amount in seconds on right click
     jump_icon_number = true,               -- show different icon when jump_amount is set to 5, 10, or 30
-    jump_mode = "relative",                -- seek mode for jump buttons: "relative" or "exact"
+    jump_mode = "exact",                -- seek mode for jump buttons: "relative" or "exact"
     jump_softrepeat = true,                -- enable continuous jumping when holding down seek buttons
     chapter_skip_buttons = false,          -- show the chapter skip backward and forward buttons
     track_nextprev_buttons = true,         -- show next/previous playlist track buttons
@@ -229,8 +229,8 @@ local user_opts = {
     chapter_title_mbtn_right_command = "show-text ${chapter-list} 3000",
 
     -- seekbar wheel actions
-    seekbar_wheel_up_command = "seek 10",
-    seekbar_wheel_down_command = "seek -10",
+    seekbar_wheel_up_command = "seek 10 exact",
+    seekbar_wheel_down_command = "seek -10 exact",
 
     -- playlist button mouse actions
     playlist_mbtn_left_command = "script-binding select/select-playlist",
