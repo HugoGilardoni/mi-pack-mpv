@@ -1,0 +1,9 @@
+https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autoload.lua
+https://github.com/Samillion/ModernZ
+https://github.com/d87/mpv-persist-properties
+https://github.com/jonniek/mpv-playlistmanager
+https://github.com/po5/thumbfast
+https://github.com/bloc97/Anime4K
+https://github.com/igv/FSRCNN-TensorFlow
+https://gist.github.com/agyild/82219c545228d70c5604f865ce0b0ce5
+https://github.com/bjin/mpv-prescalers/blob/master/ravu-r4.hook
