@@ -6,4 +6,5 @@ https://github.com/po5/thumbfast<br>
 https://github.com/bloc97/Anime4K<br>
 https://github.com/igv/FSRCNN-TensorFlow<br>
 https://gist.github.com/agyild/82219c545228d70c5604f865ce0b0ce5<br>
-https://github.com/bjin/mpv-prescalers/blob/master/ravu-r4.hook
+https://github.com/bjin/mpv-prescalers/blob/master/ravu-r4.hook<br>
+https://github.com/Artoriuz/ArtCNN
